@@ -215,7 +215,7 @@
 244,51.5221,-0.047,"Stepney Green","Stepney<br />Green",2,2,0
 245,51.4723,-0.123,"Stockwell",NULL,2,2,0
 246,51.5439,-0.2759,"Stonebridge Park","Stonebridge<br />Park",3,1,0
-247,51.5416,-0.0042,"Stratford",NULL,3,3,1
+247,51.5416,-0.0042,"Stratford",NULL,2.5,3,1
 248,51.4994,-0.1335,"St. James's Park","St. James's<br />Park",1,2,0
 249,51.5347,-0.174,"St. John's Wood","St. John's<br />Wood",2,1,0
 250,51.5146,-0.0973,"St. Paul's","St. Paul's",1,1,0
@@ -254,7 +254,7 @@
 286,51.518,-0.2809,"West Acton","West<br />Acton",3,1,0
 287,51.4872,-0.1953,"West Brompton","West<br />Brompton",2,1,1
 288,51.6095,-0.1883,"West Finchley","West<br />Finchley",4,1,0
-289,51.5287,0.0056,"West Ham","West<br />Ham",3,3,1
+289,51.5287,0.0056,"West Ham","West<br />Ham",2.5,3,1
 290,51.5469,-0.1906,"West Hampstead","West<br />Hampstead",2,1,1
 291,51.5795,-0.3533,"West Harrow","West<br />Harrow",5,1,0
 292,51.507,-0.0203,"West India Quay","West<br />India<br />Quay",2,1,0
@@ -292,7 +292,7 @@
 204,51.5343,-0.0139,"Pudding Mill Lane","Pudding<br />Mill Lane",2.5,1,0
 233,51.504,-0.1052,"Southwark",NULL,1,1,0
 41,51.4982,-0.0502,"Canada Water","Canada<br />Water",2,2,0
-43,51.5147,0.0082,"Canning Town","Canning<br />Town",3,2,1
+43,51.5147,0.0082,"Canning Town","Canning<br />Town",2.5,2,1
 183,51.5005,0.0039,"North Greenwich","North<br />Greenwich",2.5,1,0
 64,51.4827,-0.0096,"Cutty Sark","Cutty<br />Sark",2.5,1,0
 106,51.4781,-0.0149,"Greenwich",NULL,2.5,1,1
