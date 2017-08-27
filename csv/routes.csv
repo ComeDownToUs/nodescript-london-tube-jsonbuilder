@@ -1,39 +1,44 @@
 "id","name","colour","stripe","origin"
 1,"Bakerloo Line","ab6612",NULL,114
+2,"Central Line*","df002c",NULL,88
 3,"Circle Line","f7dc00",NULL,83
+4,"District Line*","0d6928",NULL,267
+5,"OG-East London Line_","f3ba22",NULL,228
 6,"Hammersmith & City Line","f5a6b3",NULL,110
 7,"Jubilee Line","767b7f",NULL,243
+8,"Metropolitan Line*","8b004c",NULL,2
+9,"Northern Line1*","000000",NULL,81
 11,"Victoria Line","0076bd",NULL,274
-2,"Central Line_","df002c",NULL,88
-4,"District Line_","0d6928",NULL,267
-5,"OG-East London Line*","f3ba22",NULL,NULL
-8,"Metropolitan Line_","8b004c",NULL,2
-9,"Northern Line1!_","000000",NULL,81
 10,"Piccadilly Line","002d73",NULL,57
 12,"Waterloo & City Line","89cbc1",NULL,13
 13,"Docklands Light Railway*","00A77E","FFFFFF",247
 
+14,"Northern-Barnet-viaWaterloo","000000",NULL,121
+15,"Northern-Barnet-viaBank","000000",NULL,121
+16,"Northern-Edgware-viaWaterloo","000000",NULL,81
+17,"Northern-Edgware-viaBank","000000",NULL,81
 
+18,"Central-Ruislip-Epping","df002c",NULL,294
+19,"Central-Ruislip-loop1n","df002c",NULL,294
+20,"Central-Ruislip-loop2r","df002c",NULL,294
+21,"Central-Ealing-Epping","df002c",NULL,72
+22,"Central-Ealing-loop1n","df002c",NULL,72
+23,"Central-Ealing-loop2r","df002c",NULL,72
 
-14,"Northern Line2!_","000000",NULL,121
-15,"DLR Stratford-Woolwich*","00C99F",NULL,247
-16,"DLR Stratford-Lewisham*","00A77E",NULL,152
-17,"DLR Bank-Woolwich*","00C99F",NULL,13
-18,"DLR Bank-Lewisham*","00A77E",NULL,152
-19,"DLR Tower-Beckton*","00855C",NULL,19
-20,"District-Ealing","0d6928",NULL,NULL
-21,"District-Edgware","0d6928",NULL,NULL
-22,"District-Richmond","0d6928",NULL,NULL
-23,"District-Wimbledon","0d6928",NULL,NULL
-24,"Central-Ruislip-Epping","df002c",NULL,NULL
-25,"Central-Ruislip-Roding","df002c",NULL,NULL
-26,"Central-Ealing-Epping","df002c",NULL,NULL
-27,"Central-Ealing-Ruislip","df002c",NULL,NULL
-28,"Metropolitan-Amersham","8b004c",NULL,NULL
-29,"Metropolitan-Uxbridge","8b004c",NULL,NULL
-30,"Metropolitan-Chesham","8b004c",NULL,NULL
-31,"Metropolitan-Watford","8b004c",NULL,NULL
-32,"Northern-Barnet-viaWaterloo!","000000",NULL,NULL
-33,"Northern-Barnet-viaBank!","000000",NULL,NULL
-34,"Northern-Edgware-viaWaterloo!","000000",NULL,NULL
-35,"Northern-Edgware-viaBank!","000000",NULL,NULL
+24,"Metropolitan-Amersham","8b004c",NULL,6
+25,"Metropolitan-Uxbridge","8b004c",NULL,271
+26,"Metropolitan-Chesham","8b004c",NULL,50
+27,"Metropolitan-Watford","8b004c",NULL,280
+
+28,"District-Ealing","0d6928",NULL,267
+29,"District-EdgwareRd-wimb","0d6928",NULL,299
+30,"District-Richmond","0d6928",NULL,267
+31,"District-Wimbledon","0d6928",NULL,267
+
+32,"DLR Stratford-Woolwich","00C99F",NULL,247
+33,"DLR Stratford-Lewisham","00A77E",NULL,247
+34,"DLR Stratford-CanaryWharf*","00A77E",NULL,247
+35,"DLR Stratford-Beckton*","00A77E",NULL,247
+36,"DLR Bank-Woolwich","00C99F",NULL,13
+37,"DLR Bank-Lewisham","00A77E",NULL,13
+38,"DLR Tower-Beckton","00855C",NULL,262

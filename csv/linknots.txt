@@ -1,0 +1,314 @@
+"station1","station2","line"
+
+there's an entry for line 6 among 4
+there's a bunch of 13s scattered
+
+//central
+181=northacton
+154=leytonstone
+275=wanstead     s
+37=buckhurst hill
+112=hangerlane
+286 = west acton
+301 = woodford
+230 = snaresbrook
+215 = roding v
+
+
+13,156,18
+13,250,18
+16,91,18
+16,173,18
+24,156,18
+24,164,18
+28,162,18
+28,192,18
+37,158,18
+37,301,18//woodford buckhurst
+48,126,18
+48,250,18
+51,103,18
+51,215,18//rodingv chigwell
+68,158,18
+68,256,18
+72,286,18
+76,296,18
+88,256,18
+91,109,18
+98,173,18
+98,211,18
+103,109,18
+105,177,18
+105,196,18
+112,196,18
+126,259,18
+127,186,18
+127,226,18
+149,162,18
+149,208,18
+153,154,18
+153,247,18
+154,230,18//snaresbrook leytonstr
+154,275,18//wanstead leytonst
+164,247,18
+177,239,18
+186,208,18
+192,259,18
+211,275,18
+215,301,18//rodingv woodf
+221,239,18
+221,294,18
+226,296,18
+230,241,18
+241,301,18//woodford swoodford
+181,286,18//northact westact
+76,181,18
+112,181,18//hangerlane nacton
+
+
+
+
+//district
+265=turnham green
+52=chiswick park
+108=gunnersbury
+74 = earls court
+236 = south kens
+287 = west brompton
+293 = w kensington
+122 = high street kensington
+99 = gloucster road
+
+3,263,4
+3,295,4
+15,78,4
+15,269,4
+17,110,4
+17,293,4
+18,186,4
+18,193,4
+21,67,4
+21,269,4
+25,161,4
+25,255,4
+33,36,4
+33,164,4
+36,289,4
+44,161,4
+44,166,4
+52,1,4
+52,265,4//turhamg chiswick
+66,67,4
+66,85,4
+72,73,4
+73,1,4
+74,99,4//earls glouchs
+74,122,4//earls high st
+74,138,4//none
+74,287,4//earls brompton
+74,293,4//earls wkensington
+78,270,4
+80,205,4
+80,231,4
+83,193,4
+85,129,4
+87,255,4
+87,285,4
+96,195,4
+96,287,4
+99,236,4
+108,141,4
+108,265,4//turham gunnersby
+110,209,4
+122,186,4
+129,268,4
+141,213,4
+164,244,4
+166,263,4
+195,205,4
+200,270,4
+200,289,4
+209,242,4
+229,236,4
+229,273,4
+231,300,4
+242,265,4
+244,295,4
+248,273,4
+248,285,4
+267,268,4
+299,300,4
+
+
+//metropolitan 
+harrow on hill = 115
+northwick park = 178
+moor park = 168
+179 = northwood
+46 = chalfont
+
+2,156,8
+6,46,8//24
+11,104,8
+11,94,8
+14,92,8
+14,167,8
+46,50,8//26
+46,53,8
+53,214,8
+62,168,8//27
+62,280,8
+75,210,8
+75,222,8
+90,104,8
+90,145,8
+92,145,8
+94,282,8
+115,178,8
+115,184,8//24-26-27
+115,291,8//25
+125,134,8
+125,271,8
+134,220,8
+156,167,8
+168,179,8
+168,214,8//24-26
+178,202,8
+179,180,8
+180,199,8
+184,199,8
+202,282,8
+210,291,8
+220,222,8
+
+
+//northern
+40=camden town
+47=chalk farm
+139=kentish town
+170 mornington crescent
+89 = euston
+84 = elephant
+279 = waterloo
+93 = finchley central
+165 = mill hill east
+136 = kennington
+
+
+---14
+7,145,9
+7,188,9
+8,124,9
+8,264,9
+12,56,9
+12,257,9
+13,157,9
+13,167,9
+22,47,9
+22,111,9
+29,84,9
+29,157,9
+34,100,9
+34,119,9
+38,58,9
+38,81,9
+40,47,9//camden-chalk
+40,89,9//camden-euston
+40,139,9//camden-kentish
+40,170,9//camden-mornington
+49,87,9
+49,151,9
+54,55,9
+54,56,9
+55,245,9
+58,119,9
+59,240,9
+59,258,9
+77,93,9
+77,124,9
+84,136,9//elephant-kennington
+87,279,9
+89,145,9//euston-kingscross
+89,170,9//euston-mornington
+89,277,9
+93,165,9
+93,288,9
+100,111,9
+102,259,9
+102,277,9
+121,261,9
+136,191,9
+136,279,9//waterloo-kennington
+139,264,9
+151,259,9
+167,188,9
+169,240,9
+191,245,9
+257,258,9
+261,302,9
+288,302,9
+
+
+
+
+
+//DLR
+225 = shadwell
+201 = poplar
+27 = blackwall
+4 = all saints
+284 = westferry
+292 = west india quay
+43 = canning town
+79 = east india
+304 = west silverton
+219 = royal victoria
+42 = canary wharf
+stratford = 247
+//stratford to canning town 
+//is not a route, 
+//use west ham 289 to fix
+
+
+
+4,70,13
+4,201,13//allsaints poplar
+13,225,13//shadwell
+19,97,13
+20,65,13
+20,217,13
+27,79,13
+27,201,13//poplar blackwall
+32,70,13
+32,204,13
+42,120,13
+42,292,13
+43,79,13//canning eastindia
+43,219,13//canning royalvic
+61,171,13
+61,238,13
+63,203,13
+63,219,13
+64,106,13
+64,135,13
+65,97,13
+69,86,13
+69,106,13
+86,152,13
+120,238,13
+135,171,13
+155,225,13
+155,284,13
+201,284,13//poplar westferry
+201,292,13//poplar westindia
+203,217,13
+204,247,13//stratford pudding
+225,262,13//shadwell
+284,292,13//westferry westindia
+43,304,13//canning westsilverton
+304,305,13
+305,306,13
+306,307,13
+289,43,13//canning westham
+289,247,13//stratford westham
+
