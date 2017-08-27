@@ -13,8 +13,6 @@ there's a bunch of 13s scattered
 301 = woodford
 230 = snaresbrook
 215 = roding v
-
-
 13,156,18
 13,250,18
 16,91,18
@@ -78,7 +76,6 @@ there's a bunch of 13s scattered
 293 = w kensington
 122 = high street kensington
 99 = gloucster road
-
 3,263,4
 3,295,4
 15,78,4
@@ -146,7 +143,6 @@ northwick park = 178
 moor park = 168
 179 = northwood
 46 = chalfont
-
 2,156,8
 6,46,8//24
 11,104,8
@@ -193,9 +189,6 @@ moor park = 168
 93 = finchley central
 165 = mill hill east
 136 = kennington
-
-
----14
 7,145,9
 7,188,9
 8,124,9
@@ -248,10 +241,6 @@ moor park = 168
 261,302,9
 288,302,9
 
-
-
-
-
 //DLR
 225 = shadwell
 201 = poplar
@@ -268,9 +257,6 @@ stratford = 247
 //stratford to canning town 
 //is not a route, 
 //use west ham 289 to fix
-
-
-
 4,70,13
 4,201,13//allsaints poplar
 13,225,13//shadwell

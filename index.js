@@ -48,10 +48,6 @@ const getLinesOnStation = (station, links) => {
   })
 }
 
-const stationsObject = csvToJSON(csvStations)
-const linksObject = csvToJSON(csvLinks)
-const routesObject = csvToJSON(csvRoutes)
-
 const addLinesToRoutes = (route, links) => {
   const routeLinks = links.filter((link) => link.line === route.id)
   let previous = route.origin
@@ -80,6 +76,10 @@ const addLinesToRoutes = (route, links) => {
     }
   }
 }
+
+const stationsObject = csvToJSON(csvStations)
+const linksObject = csvToJSON(csvLinks)
+const routesObject = csvToJSON(csvRoutes)
 
 stationsObject.map( (station) => 
   getLinesOnStation(station, linksObject, routesObject)
