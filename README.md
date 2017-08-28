@@ -10,7 +10,7 @@ Line order will be determined on the basis of North to South and West to East fo
 
 Possible Explorations:
  - Modular tracks
- - May be a lot easier manually for some parts with the assistance of tables built with the SQL dataset
+ - Adding new stations (lets get the DLR right, at least?)
 
 
-The source code is honestly far too big of a hot mess to test well but I might have enough to get it largely working in my next run through
+I've rebuilt the relational database but the links currently have a lot of redundant entries I'll remove soon via queries

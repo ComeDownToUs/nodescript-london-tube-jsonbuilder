@@ -12,29 +12,24 @@
 10,"Piccadilly Line","002d73",NULL,57
 12,"Waterloo & City Line","89cbc1",NULL,13
 13,"Docklands Light Railway*","00A77E","FFFFFF",247
-
 14,"Northern-Barnet-viaWaterloo","000000",NULL,121
 15,"Northern-Barnet-viaBank","000000",NULL,121
 16,"Northern-Edgware-viaWaterloo","000000",NULL,81
 17,"Northern-Edgware-viaBank","000000",NULL,81
-
 18,"Central-Ruislip-Epping","df002c",NULL,294
 19,"Central-Ruislip-loop1n","df002c",NULL,294
 20,"Central-Ruislip-loop2r","df002c",NULL,294
 21,"Central-Ealing-Epping","df002c",NULL,72
 22,"Central-Ealing-loop1n","df002c",NULL,72
 23,"Central-Ealing-loop2r","df002c",NULL,72
-
 24,"Metropolitan-Amersham","8b004c",NULL,6
 25,"Metropolitan-Uxbridge","8b004c",NULL,271
 26,"Metropolitan-Chesham","8b004c",NULL,50
 27,"Metropolitan-Watford","8b004c",NULL,280
-
 28,"District-Ealing","0d6928",NULL,267
 29,"District-EdgwareRd-wimb","0d6928",NULL,299
 30,"District-Richmond","0d6928",NULL,267
 31,"District-Wimbledon","0d6928",NULL,267
-
 32,"DLR Stratford-Woolwich","00C99F",NULL,247
 33,"DLR Stratford-Lewisham","00A77E",NULL,247
 34,"DLR Stratford-CanaryWharf*","00A77E",NULL,247
