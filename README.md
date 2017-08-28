@@ -1,21 +1,17 @@
+I've some pretty fun plans for the london underground data but this is mostly me just testing out scripting in node
+
 Original CSV files sourced from https://commons.wikimedia.org/wiki/London_Underground_geographic_maps/CSV
+I've rebuilt the relational database with foreign keys but the links currently have a lot of redundant entries I'll remove soon via queries, this might actually be useful to others and you're welcome to tweak it.
+
+Routes which contain an asterisk in their name are ones in which there are multiple variances of the line. As I've built up strictly linear routes I'm using the asterisk as a means to filter them out from my own operations.
 
 Changes/extensions will be applied as I find them, and these files may be replaced by better alternatives at a later date.
-Numerous stations are not included in the given dataset (e.g. Stratford International), for the purposes of simplicity, I shall skip those here
+Numerous stations are not included in the given dataset (e.g. Stratford International), for the purposes of simplicity, I shall skip those here for now.
 
-Line order will be determined on the basis of North to South and West to East
-
-Okay so this data is a mess as far as actual line structure is concerned, with this in mind I've made some compromises and a legend:
- - ! = It's the northern line, an ungodly mess, I'll figure this out either within the algorithm or some other time
- - _ = There are a whole bunch of alternate routes, I'm going with the one consistent terminus and the algorithm should just find one route through zones 1&2, that'll do for now
- - * = No consistent terminus, probably ignore for now
- - A gap of multiple lines in CSV signifies a place where I've added some entries
-
-
+Line order will be determined on the basis of North to South and West to East for the majority of the time but I won't focus on it so much. Lines with multiple variations are treated as multiple different lines here
 
 Possible Explorations:
  - Modular tracks
- - May be a lot easier manually for some parts with the assistance of tables built with the SQL dataset
+ - Adding new stations (lets get the DLR right, at least?)
+ - Figure out what to do with lines that end on a loop (Central line, I'm looking at you!), an extra "loops to" column would solve it
 
-
-The source code is honestly far too big of a hot mess to test well but I might have enough to get it largely working in my next run through
